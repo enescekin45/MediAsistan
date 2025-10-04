@@ -1,3 +1,18 @@
+MediAsistan — Kişisel Sağlık Destek Platformu
+MediAsistan , afet ve günlük hayatta kalan kullanıcıların sağlık ihtiyaçlarını daha iyi yönetebilmesi için geliştirilmiş bir web uygulamasıdır.
+Öne çıkan özellikler: ilaç yönetimi ve hatırlatmalar, acil durum (panik) butonu ile konum paylaşımı, sağlık profili (alerjiler, kronik enfeksiyon) ve ilk yardım rehberi.
+
+🚀 Özellikler
+İlaç yönetimi: dozaj, saat, stok takibi ve kritik stok uyarıları
+Panik / Acil Durum Butonu: tek dokunuşla önceden tanımlanan odalar ve sistem kayıtlarına bildirim gönderme (konum ile)
+Sağlık Profili: kronik hastalık, ilaç/gıda alerjileri, özel tedavi notları
+Yardım & gönüllülerin eşleşmesi (harita tabanlı)
+Bildirim geçmişi ve bildirim günlüğü
+Yönetici / Yönetici panelleri (isteğe bağlı)
+Mobil uyumlu dağıtımlar, Broşür ile harita listesi
+
+
+
 ![1](https://github.com/user-attachments/assets/4efa0946-23e7-44dd-86e2-969d13b6741c)
 
 ![Ekran görüntüsü 2025-10-03 215706](https://github.com/user-attachments/assets/b059eaf5-0eb1-46ee-85ee-9333f2e0a47e)
